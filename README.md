@@ -2,7 +2,7 @@
 
 ### Build
 
-    wasm-pack build`
+    wasm-pack build
     cd www
     npm install
     npm run start
